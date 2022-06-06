@@ -1,0 +1,50 @@
+*{
+    font-family: popins;
+    background: rgb(253, 253, 253);
+}
+
+.headingg {
+    
+
+   
+    position: relative;
+   
+}
+.headingg i {
+    font-size: 18px;
+    position: absolute;
+    right: 10px;
+    top: 40px;
+    color: red;
+    display: none;
+}
+
+
+
+
+/* /* .btn{
+    font-size: 50px;
+    margin: 0 10px;
+}
+h1{
+    font-weight: 800;
+    font-size: 90px;
+    color: rgb(4, 90, 117);
+}
+h2{
+    font-size: 50px;
+    color: #fff;
+    text-transform: uppercase;
+}
+
+hr{
+    color: #fff;
+}
+
+
+
+
+
+.mamu{
+    
+} */
